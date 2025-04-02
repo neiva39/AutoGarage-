@@ -133,7 +133,7 @@ No terminal, navegue até a pasta do projeto.
 
 Execute o comando:
 
-bash
+
 Copiar código
 python main.py
 Contribuindo
